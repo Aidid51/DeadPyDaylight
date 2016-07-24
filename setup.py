@@ -6,9 +6,10 @@ setup(
 	description = 'Script tool to auto ready-up in Dead By Daylight',
 	url = 'https://github.com/Aidid51/DeadPyDaylight',
 	author = 'Aidid51',
+	author_email = 'rooibosboss@gmail.com',
 	license = 'MIT',
 	packages = ['DeadPyDaylight'],
 	install_requires = [
 		'pyautogui',
 	],
-	zip_safe =False)
+	zip_safe =False )
