@@ -11,4 +11,4 @@ setup(
 	install_requires = [
 		'pyautogui',
 	],
-	zip_safe = False)
+	zip_safe =False)

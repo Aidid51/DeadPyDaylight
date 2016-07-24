@@ -7,12 +7,12 @@ def main():
 	if width != 1920 and height !=1080:
 		print "Invalid resolution. Only 1080p currently supported. "
 		return
-	killerSlash = (1354, 986)
+	killerSlash = (1354,986)
 	red = (240,0,0)
 	gray = (93,90,85)
 	black = (0,0,0)
-	readpos = (1770 , 1000)
-	slashPos = [(1383, 971)]
+	readpos = (1770,1000)
+	slashPos = [(1383,971)]
 	ourSlash = slashPos[0]
 	while True:
 		if pyautogui.pixelMatchesColor(ourSlash[0], ourSlash[1], gray):
