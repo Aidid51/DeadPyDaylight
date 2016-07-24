@@ -4,8 +4,8 @@ setup(
 	name = 'DeadPyDaylight',
 	version = '0.1',
 	description = 'Script tool to auto ready-up in Dead By Daylight',
-	url = 'http://github.com/LoganGirard/DeadPyDaylight',
-	author = 'Logan Girard',
+	url = 'https://github.com/Aidid51/DeadPyDaylight',
+	author = 'Aidid51',
 	license = 'MIT',
 	packages = ['DeadPyDaylight'],
 	install_requires = [
